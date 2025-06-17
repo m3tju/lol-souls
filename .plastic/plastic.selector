@@ -1,0 +1,4 @@
+repository "LOL Souls Project/My project@9072254899205@cloud"
+  path "/"
+    br "/main"
+    co "/main"
